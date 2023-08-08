@@ -1,0 +1,3 @@
+c=float(input("ENTER A TEMPERATURE IN CELSIUS: "))
+F=(c*9/5)+32
+print("TEMPERATURE IN FAHRENHEIT IS: ",F)

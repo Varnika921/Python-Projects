@@ -1,0 +1,6 @@
+    str1= input("Enter Your first string: ")
+    str2=input("Enter Your second string: ")
+    s=list(set(str1)&set(str2))
+    print("The common letters are:")
+    for i in s:
+    print(i)

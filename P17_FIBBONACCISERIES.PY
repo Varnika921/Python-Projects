@@ -1,0 +1,12 @@
+n= int(input("ENTER THE NUMBER OF TERMS: "))
+q = 0
+w = 1
+s = 0
+c = 1
+print ("Fibonacci Series: ", end=" ")
+while(c <= n):
+  print (s, end=" ")
+  c+= 1
+  q = w
+  w = s
+  s=q+w

@@ -1,0 +1,2 @@
+hello welcome to the new text file to count the words in a file.
+this is a simple text file.
